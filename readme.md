@@ -28,9 +28,10 @@ The installation is as easy as:
 
 To use the new strategy, you need to place tags of the **ArticleList**-directive with **list-type** being **search-lunr** into your templates. This tag may look like the following:
 
-	&lt;article-list list-type="search-lunr" inject="scorer-min-certainty=.25"&gt;&lt;/article-list&gt;
-	
-	Self-explanatory, isn't it?
+
+&lt;**article-list** list-type="***search-lunr***" inject="scorer-min-certainty=.25"&gt;&lt;/**article-list**&gt;
+
+Self-explanatory, isn't it?
 
 ## Requirements
 
