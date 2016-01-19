@@ -1,5 +1,4 @@
 node_modules
-build/
 resource/**/*.js
 !resource/stab.search.lunr/library/**/*.js
 resource/**/*.map
